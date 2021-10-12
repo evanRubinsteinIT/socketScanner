@@ -2,7 +2,7 @@
 
 ## About
 
-This was a project I wanted to make to learn more about networking and Python. As of now, I wouldn't say that it's a good tool to use since it's pretty barebones, but I plan on improving it over time. 
+This was a project I wanted to make to learn more about networking and Python. Fairly basic right now, but I plan on building on it over time.
 
 ## Installation
 
